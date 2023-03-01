@@ -1,0 +1,303 @@
+.on{
+    height: 150px;
+    width: 300px;
+    background-color:white;
+border-radius: 9px;  
+border-color: 1px solid black;
+color: white;
+display: flex;
+justify-content: center;
+font-weight: bold;
+text-transform: capitalize;
+font-size: large;
+
+
+
+}
+.navpage{
+   background-color: rgb(240, 240, 240);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: 100%;
+}
+.maste{
+    background-color: #00a2ff;
+    height: 100px;
+    width: 100px;
+}
+
+.child{
+    display: grid;
+    grid-template-columns: 300px 300px 300px  ;
+    gap: 50px;
+    background-color: white;
+    padding: 10px;
+    height: 100vh;
+    width: 100%;
+  
+}
+.card1{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(56, 114, 239);
+    color: white;
+    
+    margin-top: 10px; 
+    box-shadow: 1px 1px 1px 1px    #9abbce;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+   flex-direction: column;
+   
+   
+    border-radius: 10px;
+    font-family: ;
+
+    
+
+}
+.cardd{
+    height: 150px;
+    width: 150px;
+    color: white;
+    margin-top: 10px; 
+    box-shadow: 1px 1px 1px 1px    #9abbce;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: #9704b8;
+   flex-direction: column;
+   
+   
+    border-radius: 10px;
+    
+}
+.daa{
+    display: flex;
+    flex-direction: column;
+}
+.carddd{
+
+    height: 150px;
+    width: 150px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+    color: white;
+    margin-top: 10px; 
+    box-shadow: 1px 1px 1px 1px    #9abbce;
+   
+   
+   background-color:rgb(27, 210, 234);
+    border-radius: 10px;
+}
+.pie{
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.aaa1{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.empeee{
+    margin: 10px;
+}
+.dassh{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.car{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    margin-right: 20px;
+    
+}
+.V{
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;  
+  
+  margin-top: 20px;
+}
+.barchart{
+    margin-top: 50px;
+    height: 400;
+    width: 600;
+    
+
+}
+.beten{
+    
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    
+    flex-direction: row;
+    column-gap: 50px;
+    margin: 50px;
+   
+    
+}
+.B{
+   height: 50px;
+   width: 200px;
+   background-color:#00a2ff; 
+   border-radius: 10px;
+}
+.card2{
+    
+  display: flex;
+flex-direction: column;
+column-gap: 30px;
+
+width: 100%;
+height: 100vh;
+    
+}
+.da{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+ .card5{
+   
+ display: flex;
+ flex-direction: column;
+ align-items: flex-start;
+justify-content: center;
+ row-gap: 50px;
+ 
+ width: 600px;
+    
+ } 
+ .charts{
+display: flex;
+flex-direction: row;
+column-gap: 100px;
+margin-top: 20px;
+
+
+
+ } 
+ .card6{
+    margin-top: 20px;
+    margin-left: 350px;
+    background-color: #d0ff00;
+    width: 400px;
+    height: 400px;
+ }
+.tw{
+    height: 150px;
+    width: 300px;
+    background-color: #32a89e;
+    margin-left: 90px;
+    border-radius: 9px;  
+border-color: 1px solid black;
+color: white;
+display: flex;
+justify-content: center;
+font-weight: bold;
+text-transform: capitalize;
+font-size: large;
+}
+.TT{
+    height: 150px;
+    width: 300px;
+    background-color: #00a2ff;
+}
+.table1{
+    background-color: #00a2ff;
+    height: 150px;
+    box-shadow: 3px 5px #9abbce;
+    width: 300px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.table2{
+    background-color: #066db8;
+    height: 150px;
+    box-shadow: 3px 5px #9abbce;
+    width: 300px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.table3{
+    background-color: #9704b8;
+    height: 150px;
+    box-shadow: 3px 5px #9abbce;
+    width: 300px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.thre{
+    height: 150px;
+    width: 300px;
+    background-color: #7332a8;
+    margin-left: 190px;
+    border-radius: 9px;  
+border-color: 1px solid black;
+color: white;
+display: flex;
+justify-content: center;
+font-weight: bold;
+text-transform: capitalize;
+font-size: large;
+}
+.fr{
+    height: 350px;
+    width: 800px;
+    background-color: #517a96;
+    border-radius: 9px;  
+border-color: 1px solid black;
+
+color: white;
+display: flex;
+justify-content: center;
+font-weight: bold;
+text-transform: capitalize;
+font-size: large;
+}
+.five{
+    height: 350px;
+    width: 300px;
+    background-color: #517a96;
+    margin-left: 500px;
+    border-radius: 9px; 
+    
+border-color: 1px solid black;
+color: white;
+display: flex;
+justify-content: center;
+font-weight: bold;
+text-transform: capitalize;
+font-size: large;
+}
